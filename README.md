@@ -1,6 +1,6 @@
 # 🏄‍♂️ Amar Nuruddin
 **`Frontend Developer`**
-Hallo saya Amar Nuruddin, saya sedang mempelajari dunia Web Developer sudahh selama 1 tahun, skills yang sudah saya pelajarai HTML, CSS, JS, React, dan Express dan sampai sekarang saya masih belajar dan meningkatkan skils saya [![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://https://www.instagram.com/amarrnrdn/?hl=id).
+Hallo saya Amar Nuruddin, saya sedang mempelajari dunia Web Developer sudahh selama 1 tahun, skills yang sudah saya pelajarai HTML, CSS, JS, React, dan Express dan sampai sekarang saya masih belajar dan meningkatkan skils saya.
 
 "TUHAN TIDAK MEMBATASI HAMBANYA UNTUK MELAMPAUI KELEBIHANNYA DAN PINTAR ITU PASTI BODOH ITU PILIHAN"
 
