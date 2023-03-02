@@ -2,7 +2,7 @@
 **`Frontend Developer`**
 Hallo saya Amar Nuruddin, saya sedang mempelajari dunia Web Developer sudahh selama 1 tahun, skills yang sudah saya pelajarai HTML, CSS, JS, React, dan Express dan sampai sekarang saya masih belajar dan meningkatkan skils saya.
 
-"TUHAN TIDAK MEMBATASI HAMBANYA UNTUK MELAMPAUI KELEBIHANNYA DAN PINTAR ITU PASTI BODOH ITU PILIHAN"
+"TUHAN TIDAK MEMBATASI HAMBANYA UNTUK MELAMPAUI KEMAMPUANNYA DAN PINTAR ITU PASTI BODOH ITU PILIHAN"
 
 
 
