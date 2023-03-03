@@ -16,3 +16,10 @@ Hallo saya Amar Nuruddin, saya sedang mempelajari dunia Web Developer sudahh sel
 <br />
 
 #
+
+<a href=#><img src="sneak.svg"></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Parameow3/count.svg" />
+</p>
+<hr>
