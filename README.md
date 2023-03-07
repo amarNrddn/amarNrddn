@@ -19,7 +19,7 @@ Hallo saya Amar Nuruddin, saya sedang mempelajari dunia Web Developer sudahh sel
 
 <a href=#><img src="sneack.svg"></a>
 <p align="center"> 
-  Visitor count<br>
+  Visitor<br>
   <img src="https://profile-counter.glitch.me/Parameow3/count.svg" />
 </p>
 <hr>
