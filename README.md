@@ -17,26 +17,13 @@
   📫 How to reach me: <a href="mailto: amarpalevi82@gmail.com"> amarpalevi82@gmail.com</a>
 </p>
 
-<hr>
 <h2 align="center">🔥 Languages 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="TypeScript" height="25" src="images/typescriptlang-icon.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="GO" height="25" src="images/golang-icon.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>    
-</p>
-<hr>
-
-<h2 align="center">🔥 Language 🔥</h2>
 <br>
 <p align="center">
   <code><img title="HTML" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></code>
   <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"rc="images/nestjs-icon.svg"></code>
   <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
-  <code><img title="Express" height="25" src="images/expressjs-ar21.svg"></code> 
+  <code><img title="Express" height="25" src="images/express1.png"></code> 
   <code><img title="React" height="25" src="images/react-original.svg"></code>
 </p>
 <hr>
