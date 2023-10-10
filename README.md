@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="www.linkedin.com/in/amar-nuruddin-592282257" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="www.linkedin.com/in/amar-nuruddin-592282257/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
