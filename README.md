@@ -20,8 +20,6 @@
 <h2 align="center">🔥 Languages 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="HTML" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></code>
-  <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"rc="images/nestjs-icon.svg"></code>
   <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
   <code><img title="Express" height="25" src="images/express1.png"></code> 
   <code><img title="React" height="25" src="images/react-original.svg"></code>
